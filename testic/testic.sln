@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testic", "testic.csproj", "{BB756496-5BD1-4829-A5C1-955B34FDAFA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB756496-5BD1-4829-A5C1-955B34FDAFA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB756496-5BD1-4829-A5C1-955B34FDAFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB756496-5BD1-4829-A5C1-955B34FDAFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB756496-5BD1-4829-A5C1-955B34FDAFA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3408FA47-821D-43E1-8181-C2EF3113DC5C}
+	EndGlobalSection
+EndGlobal
