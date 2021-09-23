@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g/EZMqNo746pAkSEyGkalpwSPoeKqQRnIQA0Zwhsr3O08yR2dHIzVMYstjeC3w0jTB1v9sR+wKJPOsYQKN4hWQ==",
+  "dgSpecHash": "raHWqBdyjfYEPqlylNEZGH7LL7FDhUnYwk8rwkcQREV8qSXAS6JM1nVIBmO08QdrIIo30ZpUGAE7A1vT/rRAEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\b.cvijanovic\\Desktop\\testic\\testic.csproj",
+  "projectFilePath": "C:\\GitHub\\Test\\testic\\testic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\b.cvijanovic\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\b.cvijanovic\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

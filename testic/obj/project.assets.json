@@ -4958,11 +4958,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\b.cvijanovic\\Desktop\\testic\\testic.csproj",
+      "projectUniqueName": "C:\\GitHub\\Test\\testic\\testic.csproj",
       "projectName": "testic",
-      "projectPath": "C:\\Users\\b.cvijanovic\\Desktop\\testic\\testic.csproj",
+      "projectPath": "C:\\GitHub\\Test\\testic\\testic.csproj",
       "packagesPath": "C:\\Users\\b.cvijanovic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\b.cvijanovic\\Desktop\\testic\\obj\\",
+      "outputPath": "C:\\GitHub\\Test\\testic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\b.cvijanovic\\AppData\\Roaming\\NuGet\\NuGet.Config",

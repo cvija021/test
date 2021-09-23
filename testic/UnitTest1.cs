@@ -13,6 +13,7 @@ namespace testic
         public void Test1()
         {
             System.Console.WriteLine("Hello World");
+            System.Console.WriteLine("Holla Mundo");
             Assert.Pass();
         }
     }
